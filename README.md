@@ -1,2 +1,2 @@
-# Ola-mundo
- firt reposytory
+# Aprendendo Git/GitHub
+ first repository
